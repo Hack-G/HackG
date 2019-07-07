@@ -16,7 +16,4 @@ pip2 install bs4
 pip2 install urllib3 chardet certifi idna requests 
 pip2 install -r requirements.txt 
 git clone https://github.com/Hack-G/HackG
-ls 
-cd HackG
-chmod 777 HackG.sh 
-sh HackG.sh
+sh Hackg.sh
